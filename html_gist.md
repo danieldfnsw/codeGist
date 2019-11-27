@@ -12,4 +12,9 @@
     hello world!
 <div>
 ```
+英文不会自动换行，添加换行
+``` html
+word-wrap:break-word;
+word-break:break-all;
+```
 
